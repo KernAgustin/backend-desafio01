@@ -37,7 +37,7 @@ class Usuario {
 
 }
 
-let u = new Usuario("Omar", "Adra", [{nombre: "Este dolor no es mio", autor: "Mark Wolynn"}, {nombre: "Las huellas del mal", autor: "Federico Andahazi"}], ["Gato", "Perro"]);
+let u = new Usuario("Kern", "Agustin", [{nombre: "Este dolor no es mio", autor: "Mark Wolynn"}, {nombre: "Las huellas del mal", autor: "Federico Andahazi"}], ["Gato", "Perro"]);
 
 u.getFullName();
 u.addMascota("Carpincho");
